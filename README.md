@@ -72,6 +72,20 @@ Your goal is to search the twisting corridors for 5 specific items, but beware, 
 
 > A classic take on spot the difference. Play by clicking the mouse on UI buttons, or the game pieces. Test your performance in short term memory and instant recall.
 
+---
+
+<br />
+
+### [Le Petit Jardin by chrissx2](https://ldjam.com/events/ludum-dare/51/le-petit-jardin)
+
+<a href="https://auxiliarycarry.itch.io/petitjardin" target="_blank">
+    <img src="https://static.jam.host/raw/564/1/z/51cde.png" alt="Le Petit Jardin screenshot" height="240" />
+</a>
+
+> Lowkey gardening with warm summer vibes. Explore, do a task or two, but most importantly put your feet up for a while on the bench, and take in the atmosphere.
+
+---
+
 <br />
 
 # Community Jams
